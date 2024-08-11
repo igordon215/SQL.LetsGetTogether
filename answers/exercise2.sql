@@ -3,5 +3,5 @@
 
 <--SELECT *
 <--FROM Enrolments
-<!--[insert clause here];
+INNER JOIN Students;
 <--ON Enrolments.StudentID=Students.StudentID;
